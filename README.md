@@ -1,4 +1,4 @@
-# SpartaHack2023
+# MindMouse
 ### Inspiration
 Computer Vision is widely used as a tool for Object Detection, Identification, and Classification, but we wanted to think of more interactive uses, that could potentially help a part of the community that did not have sufficient resources to effectively access technology. Many apps allow voice recognition or motion tracking to operate a computer but not that many exist that are designed for people who are unable to use all of their limbs. We created MindMouse to solve that issue.
 
